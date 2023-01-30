@@ -14,4 +14,4 @@ itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/
 
 ## TrollStore
 
-itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/liu-congcong/IPAInstaller/main/TrollStore.plist
+https://api.jailbreaks.app/troll
